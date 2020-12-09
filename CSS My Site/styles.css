@@ -1,0 +1,145 @@
+body {
+  text-align: center;
+  font-family: 'Oswald', sans-serif;
+  background-image: linear-gradient(#0083B0,#00B4DB);
+}
+
+h1 {
+  margin: 50px 0 auto 0;
+  font-family: 'Parisienne', cursive;
+  font-size: 5.625rem;
+  color: #51adcf;
+}
+
+h2 {
+font-family: 'Montserrat', sans-serif;
+color: #113f67;
+font-size: 2rem;
+
+}
+
+h3 {
+font-family: 'Montserrat', sans-serif;
+color: #113f67;
+
+}
+
+p {
+  margin: 0;
+  font-size: 1rem;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
+.p1 {
+  margin: 0;
+  font-size: 2.5rem;
+  color: #51adcf;
+
+}
+
+.top-containor {
+  padding-top: 200px;
+  position: relative;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 180px;
+}
+
+.photo {
+  height: 200px;
+  width: 200px;
+  margin: 50px auto 10px auto;
+}
+
+.skill-row {
+width: 50%;
+margin: 50px auto 50px auto;
+text-align: left;
+line-height: 2;
+margin-top: 5px;
+}
+
+.cat1{
+  width: 30%;
+  float: left;
+  margin-right: 20px;
+}
+.cat2 {
+  width: 30%;
+  float: right;
+  margin-left: 20px;
+}
+
+hr {
+  border-color: #a5ecd7;
+  border-width: 10px;
+  border-style: none none dotted;
+  width: 5%;
+  margin: 30px auto 30px auto;
+}
+
+
+.blubutton {
+   background: #0278AE;
+   background-image: -webkit-linear-gradient(top, #0278AE, #51adcf);
+   background-image: -moz-linear-gradient(top, #0278AE, #51adcf);
+   background-image: -ms-linear-gradient(top, #0278AE, #51adcf);
+   background-image: -o-linear-gradient(top, #0278AE, #51adcf);
+   background-image: -webkit-gradient(to bottom, #0278AE, #51adcf);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 19px;
+   line-height: 19px;
+   color: #FFFFFF;
+   font-family: serif;
+   width: 175px;
+   font-size: 21px;
+   font-weight: 900;
+   padding: 12px;
+   -webkit-box-shadow: 1px 1px 6px 0 #000000;
+   -moz-box-shadow: 1px 1px 6px 0 #000000;
+   box-shadow: 1px 1px 6px 0 #000000;
+   text-shadow: 1px 1px 6px #000000;
+   border: solid #762C2C 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 20px auto 20px auto;
+}
+
+.blubutton:hover {
+   border: solid #3E4FC7 1px;
+   background: #9AA5DD;
+   background-image: -webkit-linear-gradient(top, #9AA5DD, #3B79C4);
+   background-image: -moz-linear-gradient(top, #9AA5DD, #3B79C4);
+   background-image: -ms-linear-gradient(top, #9AA5DD, #3B79C4);
+   background-image: -o-linear-gradient(top, #9AA5DD, #3B79C4);
+   background-image: -webkit-gradient(to bottom, #9AA5DD, #3B79C4);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+.footer-link {
+  color: #113f67;
+  text-decoration: none;
+  font-size: 22px;
+  display: inline-block;
+  padding: 10px;
+}
+
+.last {
+  color: #f4eeed;
+  font-size: 14px;
+}
